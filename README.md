@@ -1,4 +1,4 @@
-# class-3b.R
+
 getwd()
 setwd("path to your folder)
 getwd()
